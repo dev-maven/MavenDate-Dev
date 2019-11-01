@@ -1,0 +1,17 @@
+/* form {
+overflow-y: scroll;
+height: 8;
+} */
+
+.invalid-feedback{
+    background: red !important;
+    color: white !important;
+}
+
+.regtext{
+    color: #fff;
+}
+
+label{
+    color: #fff;
+}
